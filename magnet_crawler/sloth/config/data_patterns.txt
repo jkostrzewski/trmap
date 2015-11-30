@@ -1,0 +1,3 @@
+﻿[\w\.-]+@[\w\.-]+	email
+((Jak|Czy|Jaka|Jaki|Jakie|Może|Dlaczego|Kto|Co|Kiedy|Komu|Czemu|Z kim|O|Ale|Podaj|Pokaż|Chcesz|Spróbuj|Odpowiedz|Wyjaśnij|Omów|Ile) [\w \\,&;\(\)\d\n]+\?)	question
+"((http://|/)[\w\./-]+\.(jpg|gif))"	image

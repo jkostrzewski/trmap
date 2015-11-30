@@ -1,0 +1,6 @@
+https://thepiratebay.mn/top/100	2	music
+https://thepiratebay.mn/top/200	2	movies
+https://thepiratebay.mn/top/300	2	applications
+https://thepiratebay.mn/top/400	2	games
+https://thepiratebay.mn/top/500	2	porn
+https://thepiratebay.mn/top/600	2	other
